@@ -2,7 +2,7 @@
 
 Programación Analítica II · Universidad de Montevideo · S2 2026
 
-**Integrantes:** Mailhos, De Castro, Susena
+**Integrantes:** Mailhos, de Castro, Susena
 
 ## Estructura
 
