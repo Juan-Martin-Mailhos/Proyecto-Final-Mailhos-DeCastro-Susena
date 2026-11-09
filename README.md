@@ -19,5 +19,5 @@ Programación Analítica II · Universidad de Montevideo · S2 2026
 
 1. Clonar o descargar el repositorio.
 2. Instalar las librerías: `pip install -r requirements.txt`
-3. Abrir el notebook de la carpeta `notebooks/` y ejecutar todas las celdas en orden.
+3. Abrir el notebook de la carpeta `notebook/` y ejecutar todas las celdas en orden.
 
