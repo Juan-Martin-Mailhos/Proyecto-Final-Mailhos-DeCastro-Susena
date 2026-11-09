@@ -11,7 +11,7 @@ Programación Analítica II · Universidad de Montevideo · S2 2026
 ├── requirements.txt
 ├── .gitignore
 ├── datos/        # archivos CSV del caso
-├── notebooks/    # notebook del análisis
+├── notebook/    # notebook del análisis
 └── salidas/      # gráficos y archivos generados
 ```
 
